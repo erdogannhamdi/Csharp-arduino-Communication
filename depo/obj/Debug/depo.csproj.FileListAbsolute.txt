@@ -1,0 +1,9 @@
+c:\users\hamdi\documents\visual studio 2013\Projects\depo\depo\bin\Debug\depo.exe.config
+c:\users\hamdi\documents\visual studio 2013\Projects\depo\depo\bin\Debug\depo.exe
+c:\users\hamdi\documents\visual studio 2013\Projects\depo\depo\bin\Debug\depo.pdb
+c:\users\hamdi\documents\visual studio 2013\Projects\depo\depo\obj\Debug\depo.csprojResolveAssemblyReference.cache
+c:\users\hamdi\documents\visual studio 2013\Projects\depo\depo\obj\Debug\depo.Form1.resources
+c:\users\hamdi\documents\visual studio 2013\Projects\depo\depo\obj\Debug\depo.Properties.Resources.resources
+c:\users\hamdi\documents\visual studio 2013\Projects\depo\depo\obj\Debug\depo.csproj.GenerateResource.Cache
+c:\users\hamdi\documents\visual studio 2013\Projects\depo\depo\obj\Debug\depo.exe
+c:\users\hamdi\documents\visual studio 2013\Projects\depo\depo\obj\Debug\depo.pdb
